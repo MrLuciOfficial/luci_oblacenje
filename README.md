@@ -11,6 +11,8 @@ Skripta je optimizovana te vuce 0.01ms
 ------------------------------------------------------
 
 
+English:
+
 A script to take off clothes on a character
 
 The script opens with the L button 
